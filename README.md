@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seowung
-- 👀 I’m interested in application of deep learning in various medical topics.
+- 👀 I'm currently working on the computational modeling of sensory and emotion information processing pathway in human brain via DL architecture
 - 🌱 I’m currently Ph.D student in University of Florida
 - 📫 How to reach me : leem.s@ufl.edu
 
